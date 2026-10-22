@@ -1,0 +1,10 @@
+# The dataset is not redistributed.
+data/*
+!data/README.md
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+*.pkl
